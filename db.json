@@ -1,0 +1,44 @@
+{
+  "to-dos": [
+    {
+      "id": "1",
+      "title": "do homework",
+      "status": "in progress"
+    },
+    {
+      "id": "2",
+      "title": "clean room",
+      "status": "pending"
+    },
+    {
+      "id": "3",
+      "title": "self study",
+      "status": "completed"
+    },
+    {
+      "id": "4",
+      "title": "go to play",
+      "status": "completed"
+    },
+    {
+      "id": "5",
+      "title": "attend class",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "title": "Go to school",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "talk to parents",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "attend tuition",
+      "status": "pending"
+    }
+  ]
+}
