@@ -14,7 +14,7 @@
 
 .todolist {
     display: grid;
-    grid-template-columns: repeat(1,1fr);
+    grid-template-columns: repeat(3,1fr);
 }
 .inpbox {
     height: 30px;
@@ -28,4 +28,19 @@
 }
 .button_hide{
     display: none;
+}
+.pending{background-color: yellow;
+    padding-left: 10px;
+    margin: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.progress{background-color: greenyellow;
+    padding-left: 10px;
+    margin: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.complete{background-color: skyblue;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
